@@ -19,9 +19,9 @@ export const metadata: Metadata = {
 export default function IndexPage() {
   return (
     <div className="grid grid-flow-row mt-5 gap-4">
-      <div className="lg:w-[1000px] mx-auto">
+      <div className="lg:w-[1200px] mx-auto">
         <InputTabs />
-        <div className="grid grid-cols-3 h-[360px] mx-3">
+        <div className="grid grid-cols-7 h-[360px] mx-3 gap-3 my-4">
           <ContactCarousel />
           <SubscriptionCard />
         </div>

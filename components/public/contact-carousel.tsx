@@ -49,7 +49,7 @@ const ContactCarousel: React.FC = () => {
         ]
       )
   return (
-      <div className='col-span-3 md:col-span-2 h-full'>
+      <div className='col-span-7 md:col-span-5 h-full'>
         <div className="slider-wrapper h-full">
           <div ref={sliderRef} className="keen-slider rounded-md">
             <div className="keen-slider__slide number-slide1">1</div>

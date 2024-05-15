@@ -1,5 +1,3 @@
-"use client"
-
 import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
@@ -16,10 +14,5 @@ import CurrencySelector from "./ui/currency"
 import LanguageSelector from "./ui/language"
 
 export function ClientHeader() {
-  return (
-    <>
-      <CurrencySelector />
-      <LanguageSelector />
-    </>
-  )
+  return <></>
 }
