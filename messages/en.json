@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "title": "TicketsHUB",
+    "description": ""
+  },
+  "home": {
+    "from": "FROM",
+    "to": "TO",
+    "when": "WHEN", 
+    "return": "RETURN", 
+    "passengers": "PASSENGERS",
+    "buses": "BUSES", 
+    "minibuses": "MINIBUSES",
+    "trains": "TRAINS", 
+    "bus_slogan": "Your tickets. Your directions",
+    "minibus_slogan": "Your tickets. Your directions", 
+    "train_slogan": "Your tickets. Your directions",
+    "home": "HOME", 
+    "login": "LOG IN",
+    "search": "Search",
+    "adults": "Adults",
+    "children": "Children",
+    "infants": "Infants",
+    "years": "years"
+  }
+}
